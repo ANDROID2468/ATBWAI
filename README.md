@@ -20,6 +20,7 @@ More about getnews.tech here: https://github.com/omgimanerd/getnews.tech
 # cheat.sh
 this web app is a linux cheat sheet.
 You can aceses this without this bash script by typing curl cheat.sh in the terminal or by typing cheat.sh in your web browser.
+![alt text](https://github.com/ANDROID2468/ATBWAI/blob/master/cheat.sh.png)
 
 # HOW TO DOWNLOAD AND USE/INSTALL
 
