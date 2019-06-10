@@ -2,7 +2,7 @@
 ANDROID2468's Terminal Based Web Apps Interface. This is a simple bash script that makes terminal web apps easier to navigate.
 ![alt text](https://github.com/ANDROID2468/ATBWAI/blob/master/Screenshot%20from%202019-06-10%2015-25-51.png)
 This bash script uses curl for the web apps. you need an Internet connection to use this!
-If you type somthing that has a space anywhere in this script, replace the space with a + sign.(Ex: android+phones)
+If you type somthing that has a space anywhere in this script, replace the space with a + sign(Ex: android+phones).
 # INCLUDED WEB APPS
 
 # wttr.in
