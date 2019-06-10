@@ -1,7 +1,7 @@
 # ATBWAI
 ANDROID2468's Terminal Based Web Apps Interface. This is a simple bash script that makes terminal web apps easier to navigate.
 ![alt text](https://github.com/ANDROID2468/ATBWAI/blob/master/Screenshot%20from%202019-06-10%2015-25-51.png)
-This uses curl for the web apps
+This bash script uses curl for the web apps
 # INCLUDED WEB APPS
 
 # wttr.in
@@ -20,3 +20,8 @@ More about getnews.tech here: https://github.com/omgimanerd/getnews.tech
 # cheat.sh
 this web app is a linux cheat sheet.
 You can aceses this without this bash script by typing curl cheat.sh in the terminal or by typing cheat.sh in your web browser.
+
+# HOW TO DOWNLOAD AND USE/INSTALL
+
+You can download this by typing `git clone https://github.com/ANDROID2468/ATBWAI.git` in your terminal
+than type `cd ATBWAI`. Than you can just type `web_app.sh` if you don't want to install. If you want to install it so you can access it  anywhere, then type `install.sh`  in the terminal, than you type `web_apps` in the terminal.
