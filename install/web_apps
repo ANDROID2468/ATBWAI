@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bash Menu Script Example
-echo "ANDROID2468's termanal based web app interface"
+echo "ANDROID2468's terminal based web app interface"
 echo "You need an Internet connection to use this!"
 echo "If you type somthing that has a space, replace the space with a + sign.(Ex: android+phones)"
 echo ""
